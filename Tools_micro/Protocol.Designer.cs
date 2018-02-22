@@ -97,7 +97,7 @@
             this.textBox1.MaximumSize = new System.Drawing.Size(179, 29);
             this.textBox1.MaxLength = 10;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(94, 29);
+            this.textBox1.Size = new System.Drawing.Size(43, 29);
             this.textBox1.TabIndex = 2;
             // 
             // label3
@@ -122,7 +122,7 @@
             this.maskedTextBox1.Mask = "00/00/0000";
             this.maskedTextBox1.MaximumSize = new System.Drawing.Size(108, 29);
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(23, 29);
+            this.maskedTextBox1.Size = new System.Drawing.Size(0, 29);
             this.maskedTextBox1.TabIndex = 4;
             this.maskedTextBox1.ValidatingType = typeof(System.DateTime);
             // 
@@ -146,7 +146,7 @@
             this.textBox2.Location = new System.Drawing.Point(219, 106);
             this.textBox2.MaxLength = 500;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(633, 29);
+            this.textBox2.Size = new System.Drawing.Size(582, 29);
             this.textBox2.TabIndex = 6;
             // 
             // label5
@@ -169,7 +169,7 @@
             this.textBox3.Location = new System.Drawing.Point(219, 157);
             this.textBox3.MaxLength = 500;
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(633, 29);
+            this.textBox3.Size = new System.Drawing.Size(582, 29);
             this.textBox3.TabIndex = 8;
             // 
             // label6
@@ -192,7 +192,7 @@
             this.textBox4.Location = new System.Drawing.Point(219, 212);
             this.textBox4.MaxLength = 500;
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(633, 29);
+            this.textBox4.Size = new System.Drawing.Size(582, 29);
             this.textBox4.TabIndex = 10;
             // 
             // label7
@@ -215,7 +215,7 @@
             this.textBox5.Location = new System.Drawing.Point(219, 266);
             this.textBox5.MaxLength = 500;
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(633, 29);
+            this.textBox5.Size = new System.Drawing.Size(582, 29);
             this.textBox5.TabIndex = 12;
             // 
             // label8
@@ -239,7 +239,7 @@
             this.textBox6.MaxLength = 500;
             this.textBox6.Multiline = true;
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(633, 60);
+            this.textBox6.Size = new System.Drawing.Size(582, 60);
             this.textBox6.TabIndex = 14;
             // 
             // label9
@@ -273,7 +273,7 @@
             this.textBox7.MaximumSize = new System.Drawing.Size(101, 29);
             this.textBox7.MaxLength = 500;
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(16, 29);
+            this.textBox7.Size = new System.Drawing.Size(0, 29);
             this.textBox7.TabIndex = 17;
             // 
             // label11
@@ -307,7 +307,7 @@
             this.textBox8.MaximumSize = new System.Drawing.Size(101, 29);
             this.textBox8.MaxLength = 500;
             this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(16, 29);
+            this.textBox8.Size = new System.Drawing.Size(0, 29);
             this.textBox8.TabIndex = 20;
             // 
             // label13
@@ -341,7 +341,7 @@
             this.textBox9.MaximumSize = new System.Drawing.Size(101, 29);
             this.textBox9.MaxLength = 500;
             this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(16, 29);
+            this.textBox9.Size = new System.Drawing.Size(0, 29);
             this.textBox9.TabIndex = 23;
             // 
             // label15
@@ -375,14 +375,14 @@
             this.textBox10.MaxLength = 500;
             this.textBox10.Multiline = true;
             this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(633, 82);
+            this.textBox10.Size = new System.Drawing.Size(582, 82);
             this.textBox10.TabIndex = 26;
             // 
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.Font = new System.Drawing.Font("Courier New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(507, 741);
+            this.button1.Location = new System.Drawing.Point(456, 741);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(340, 35);
             this.button1.TabIndex = 27;
@@ -401,7 +401,7 @@
             this.textBox11.MaxLength = 500;
             this.textBox11.Multiline = true;
             this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(631, 60);
+            this.textBox11.Size = new System.Drawing.Size(580, 60);
             this.textBox11.TabIndex = 31;
             // 
             // label17
@@ -425,7 +425,7 @@
             this.textBox12.MaxLength = 500;
             this.textBox12.Multiline = true;
             this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(633, 60);
+            this.textBox12.Size = new System.Drawing.Size(582, 60);
             this.textBox12.TabIndex = 29;
             // 
             // label18
